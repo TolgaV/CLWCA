@@ -1,7 +1,6 @@
 #!/bin/bash
 #declaring a string variable
 #Wireless Connection Command Line Automator
-STRING="MERHABA DUNYA(HELLO WORLD IN TURKISH)"
 STRING2="ESSID"
 COUNTER="1"
 MYPWD=$(pwd)
