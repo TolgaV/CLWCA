@@ -17,7 +17,7 @@ NUMLINE=$(sudo cat $MYPWD/$STRING2.txt | wc -l)
 echo -e "\n. . ."
 echo -e "\nThere are "$NUMLINE " visible networks\n"
 
-echo -e "\nWritten by Tolga Varol July 2015\n\n"
+echo -e "\nWritten in July 2015\n\n"
 read -t 5 -p "Enter header number of the desired network : " NUMBER
 if [ $NUMBER -gt $NUMLINE ]
 then
